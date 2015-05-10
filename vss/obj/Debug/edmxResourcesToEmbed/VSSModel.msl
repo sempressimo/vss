@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VSSModelStoreContainer" CdmEntityContainer="VSSEntities">
+    <EntitySetMapping Name="MediaContent">
+      <EntityTypeMapping TypeName="VSSModel.MediaContent">
+        <MappingFragment StoreEntitySet="MediaContent">
+          <ScalarProperty Name="Manifest" ColumnName="Manifest" />
+          <ScalarProperty Name="Content_Description" ColumnName="Content_Description" />
+          <ScalarProperty Name="MediaContent_ID" ColumnName="MediaContent_ID" />
+          <ScalarProperty Name="Membership_Level" ColumnName="Membership_Level" />
+          <ScalarProperty Name="Uploaded_Date" ColumnName="Uploaded_Date" />
+          <ScalarProperty Name="Content_Title" ColumnName="Content_Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Memberships">
+      <EntityTypeMapping TypeName="VSSModel.Memberships">
+        <MappingFragment StoreEntitySet="Memberships">
+          <ScalarProperty Name="Approved" ColumnName="Approved" />
+          <ScalarProperty Name="Expiration_Date" ColumnName="Expiration_Date" />
+          <ScalarProperty Name="Subscription_Date" ColumnName="Subscription_Date" />
+          <ScalarProperty Name="MembershipType_ID" ColumnName="MembershipType_ID" />
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MembershipTypes">
+      <EntityTypeMapping TypeName="VSSModel.MembershipTypes">
+        <MappingFragment StoreEntitySet="MembershipTypes">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="MembershipType" ColumnName="MembershipType" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="VSSModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+          <ScalarProperty Name="Full_Name" ColumnName="Full_Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_MediaContent">
+      <EntityTypeMapping TypeName="VSSModel.vw_MediaContent">
+        <MappingFragment StoreEntitySet="vw_MediaContent">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="MembershipType" ColumnName="MembershipType" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Manifest" ColumnName="Manifest" />
+          <ScalarProperty Name="Content_Description" ColumnName="Content_Description" />
+          <ScalarProperty Name="MediaContent_ID" ColumnName="MediaContent_ID" />
+          <ScalarProperty Name="Membership_Level" ColumnName="Membership_Level" />
+          <ScalarProperty Name="Uploaded_Date" ColumnName="Uploaded_Date" />
+          <ScalarProperty Name="Content_Title" ColumnName="Content_Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

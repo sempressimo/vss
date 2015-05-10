@@ -1,0 +1,304 @@
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\vss.dll.config
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\vss.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\vss.pdb
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Antlr3.Runtime.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Newtonsoft.Json.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\System.Web.Optimization.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\WebGrease.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\System.Web.Optimization.xml
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Antlr3.Runtime.pdb
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Newtonsoft.Json.xml
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\obj\Debug\vss.dll
+c:\users\sempressimo\documents\visual studio 2013\Projects\vss\vss\obj\Debug\vss.pdb
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Edm.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.OData.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Services.Client.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.Extensions.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Spatial.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Edm.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.OData.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Services.Client.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Spatial.xml
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\sempressimo\Documents\Visual Studio 2013\Projects\vss\vss\obj\Debug\vss.csprojResolveAssemblyReference.cache
+C:\Users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\EntityFramework.dll
+C:\Users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\EntityFramework.SqlServer.dll
+C:\Users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\EntityFramework.xml
+C:\Users\sempressimo\documents\visual studio 2013\Projects\vss\vss\bin\EntityFramework.SqlServer.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\vss.dll.config
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\vss.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\vss.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Antlr3.Runtime.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\EntityFramework.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\EntityFramework.SqlServer.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Edm.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.OData.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.Extensions.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Newtonsoft.Json.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Spatial.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Web.Optimization.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\WebGrease.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\EntityFramework.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\EntityFramework.SqlServer.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Edm.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.OData.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Newtonsoft.Json.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Spatial.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\System.Web.Optimization.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Antlr3.Runtime.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\de\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\es\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\fr\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\it\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ja\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ko\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\ru\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\obj\Debug\vss.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\obj\Debug\vss.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\vss\vss\obj\Debug\vss.pdb
+C:\Users\sempressimo\Desktop\vss\vss\bin\vss.dll.config
+C:\Users\sempressimo\Desktop\vss\vss\bin\vss.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\vss.pdb
+C:\Users\sempressimo\Desktop\vss\vss\bin\Antlr3.Runtime.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\EntityFramework.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\EntityFramework.SqlServer.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.Edm.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.OData.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.Services.Client.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.Extensions.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\Newtonsoft.Json.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\System.Spatial.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\System.Web.Optimization.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\WebGrease.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\EntityFramework.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\EntityFramework.SqlServer.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.Edm.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.OData.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Data.Services.Client.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Newtonsoft.Json.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\System.Spatial.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\System.Web.Optimization.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\Antlr3.Runtime.pdb
+C:\Users\sempressimo\Desktop\vss\vss\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sempressimo\Desktop\vss\vss\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\de\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\es\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\fr\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\it\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ja\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ko\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\ru\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss\vss\obj\Debug\vss.dll
+C:\Users\sempressimo\Desktop\vss\vss\obj\Debug\vss.pdb
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\vss.dll.config
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\vss.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\vss.pdb
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Antlr3.Runtime.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\EntityFramework.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\EntityFramework.SqlServer.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.Edm.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.OData.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.Services.Client.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.WindowsAzure.MediaServices.Client.Extensions.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Newtonsoft.Json.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\System.Spatial.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\System.Web.Optimization.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\WebGrease.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\EntityFramework.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\EntityFramework.SqlServer.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.Edm.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.OData.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Data.Services.Client.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.Practices.TransientFaultHandling.Core.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Newtonsoft.Json.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\System.Spatial.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\System.Web.Optimization.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Antlr3.Runtime.pdb
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\de\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\es\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\fr\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\it\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ja\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ko\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\ru\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\obj\Debug\vss.csprojResolveAssemblyReference.cache
+C:\Users\sempressimo\Desktop\vss.new\vss\obj\Debug\vss.dll
+C:\Users\sempressimo\Desktop\vss.new\vss\obj\Debug\vss.pdb
+C:\Users\sempressimo\Desktop\vss\vss\obj\Debug\vss.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vss", "vss\vss.csproj", "{BDF44D38-E841-4D25-B813-72FC412C1FDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{0E3ED384-8567-4816-B77C-FC78F956ABAA}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebsitePublishModule.psm1 = PublishScripts\AzureWebsitePublishModule.psm1
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{B109F9AF-2433-4EDD-BF5A-BFF4CB024169}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\vss-WAWS-dev.json = PublishScripts\Configurations\vss-WAWS-dev.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF44D38-E841-4D25-B813-72FC412C1FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF44D38-E841-4D25-B813-72FC412C1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF44D38-E841-4D25-B813-72FC412C1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF44D38-E841-4D25-B813-72FC412C1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B109F9AF-2433-4EDD-BF5A-BFF4CB024169} = {0E3ED384-8567-4816-B77C-FC78F956ABAA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\TransientFaultHandling.Core.5.1.1209.1\lib\NET4
+	EndGlobalSection
+EndGlobal

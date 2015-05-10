@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VSSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MediaContent">
+    <Key>
+      <PropertyRef Name="MediaContent_ID" />
+    </Key>
+    <Property Name="Content_Title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Uploaded_Date" Type="datetime" Nullable="false" />
+    <Property Name="Membership_Level" Type="int" />
+    <Property Name="MediaContent_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Content_Description" Type="text" />
+    <Property Name="Manifest" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Memberships">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_ID" Type="int" Nullable="false" />
+    <Property Name="MembershipType_ID" Type="int" Nullable="false" />
+    <Property Name="Subscription_Date" Type="datetime" />
+    <Property Name="Expiration_Date" Type="datetime" />
+    <Property Name="Approved" Type="bit" />
+  </EntityType>
+  <EntityType Name="MembershipTypes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MembershipType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+    <Property Name="Full_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Birthday" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'VSS.dbo.vw_MediaContent' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_MediaContent">
+    <Key>
+      <PropertyRef Name="Content_Title" />
+      <PropertyRef Name="Uploaded_Date" />
+      <PropertyRef Name="MediaContent_ID" />
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="MembershipType" />
+      <PropertyRef Name="IsActive" />
+    </Key>
+    <Property Name="Content_Title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Uploaded_Date" Type="datetime" Nullable="false" />
+    <Property Name="Membership_Level" Type="int" />
+    <Property Name="MediaContent_ID" Type="int" Nullable="false" />
+    <Property Name="Content_Description" Type="text" />
+    <Property Name="Manifest" Type="varchar" MaxLength="255" />
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MembershipType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="VSSModelStoreContainer">
+    <EntitySet Name="MediaContent" EntityType="Self.MediaContent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Memberships" EntityType="Self.Memberships" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MembershipTypes" EntityType="Self.MembershipTypes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vw_MediaContent" EntityType="Self.vw_MediaContent" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_MediaContent].[Content_Title] AS [Content_Title], 
+    [vw_MediaContent].[Uploaded_Date] AS [Uploaded_Date], 
+    [vw_MediaContent].[Membership_Level] AS [Membership_Level], 
+    [vw_MediaContent].[MediaContent_ID] AS [MediaContent_ID], 
+    [vw_MediaContent].[Content_Description] AS [Content_Description], 
+    [vw_MediaContent].[Manifest] AS [Manifest], 
+    [vw_MediaContent].[ID] AS [ID], 
+    [vw_MediaContent].[MembershipType] AS [MembershipType], 
+    [vw_MediaContent].[IsActive] AS [IsActive]
+    FROM [dbo].[vw_MediaContent] AS [vw_MediaContent]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
